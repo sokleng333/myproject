@@ -1,0 +1,38 @@
+
+.container{
+    background-color: rgb(151, 86, 0);
+    width: 600px;
+    height:100vh;
+    padding: 0%;
+    margin-top: 10px;
+    display:flex;
+    justify-content:center;
+    gap:0px;
+    align-items: center;
+    position:relative;
+}
+.box1{
+    background-color: aliceblue;
+    padding:12px;
+    width: 100px;
+    height:150px;
+    position:absolute;
+    left:20px;
+    top:150px;
+
+    
+}
+.box2{
+
+    position:absolute;
+    top:400px;
+    gap:10px;
+    right:300px;
+   
+}
+.box3{
+    position: absolute;
+    left:130px;
+    top:350px;
+}
+
